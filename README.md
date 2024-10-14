@@ -27,7 +27,7 @@ I'm a passionate **Web Developer** with a focus on creating efficient, scalable,
 - 💻 GitHub Repositories: Over 50 repositories including personal projects, contributions to open-source, and work-related projects.
 
 ## 📫 Let's Connect:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kutullo-innocent-moropane-b65495319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [My Linkedin profile](https://www.linkedin.com/in/kutullo-innocent-moropane-b65495319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email:moropaneki@gmail.com
 
 Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate or discuss anything tech-related!
