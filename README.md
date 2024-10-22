@@ -7,7 +7,7 @@ I'm a passionate **Web Developer** with a focus on creating efficient, scalable,
 - ☁️ **Weather App** - A React app that provides real-time weather updates for South African cities using Mapbox and custom icons.
 - 🍳 **Recipe App** - An app where users can add, edit, delete, and search recipes with category filtering and sorting options.
 - 💬 **Live Chat Application** - A real-time chat app built with React, hosted [here](https://live-chat-7fe88.web.app/).
-### Note that my recent projects are private to access them send me click [here](moropaneki@gmail.com) to send me email.
+### Note that my recent projects are private to access them send me click [here](mailto:moropaneki@gmail.com) to send me email.
 ## 🌱 Currently Learning:
 - Advanced React.js Patterns
 - Redux Toolkit
