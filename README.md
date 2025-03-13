@@ -16,7 +16,7 @@ I'm a passionate **Web Developer** with a focus on creating efficient, scalable,
 
 ## 🛠️ Technologies & Tools:
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries/Frameworks:** React.js, Redux, Axios
+- **Libraries/Frameworks:** React.js,React Native, Redux, Axios
 - **Styling:** Sass, Tailwind CSS, Material UI
 - **Database:** Firestore DB, MongoDB
 - **Tools:** Git, VSCode, Figma, Postman
