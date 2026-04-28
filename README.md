@@ -1,33 +1,93 @@
-# Hi there, I'm Moropane Kutullo Innocent! 👋
+# Hi, I'm Kutullo Innocent Moropane 👋
 
-I'm a passionate **Web Developer** with a focus on creating efficient, scalable, and user-friendly web applications. I love solving problems with code and constantly learning new technologies to enhance my skillset. Welcome to my GitHub profile!
+🚀 **AI Automation Engineer | Zoho Systems Architect | Full-Stack Developer**
 
-## 🔭 Current Projects:
-- 🌐 **Moropane Luxury Hotel** - A modern hotel app with booking, room filtering, and review features.
-- ☁️ **Weather App** - A React app that provides real-time weather updates for South African cities using Mapbox and custom icons.
-- 🍳 **Recipe App** - An app where users can add, edit, delete, and search recipes with category filtering and sorting options.
-- 💬 **Live Chat Application** - A real-time chat app built with React, hosted [here](https://live-chat-7fe88.web.app/).
-### Note that my recent projects are private to access them send me click [here](mailto:moropaneki@gmail.com) to send me email.
-## 🌱 Currently Learning:
-- Advanced React.js Patterns
-- Redux Toolkit
-- WebSocket for real-time communication
-- Cloudinary for media management
+I design and build **intelligent business systems** that combine AI, CRM platforms, and full-stack applications to automate workflows, reduce manual work, and improve operational efficiency.
 
-## 🛠️ Technologies & Tools:
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries/Frameworks:** React.js,React Native, Redux, Axios
-- **Styling:** Sass, Tailwind CSS, Material UI
-- **Database:** Firestore DB, MongoDB
-- **Tools:** Git, VSCode, Figma, Postman
-- **APIs:** RESTful API, Mapbox, Cloudinary
+---
 
-## 🚀 Highlights:
-- 🔗 Check out my portfolio: [Portfolio](https://ikcracker.github.io/potfolio/)
-- 💻 GitHub Repositories: Over 50 repositories including personal projects, contributions to open-source, and work-related projects.
+## 🧠 What I Do
 
-## 📫 Let's Connect:
-- LinkedIn: [My Linkedin profile](https://www.linkedin.com/in/kutullo-innocent-moropane-b65495319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email:moropaneki@gmail.com
+- 🤖 Build **AI-powered automation pipelines**
+- 🧩 Design **end-to-end Zoho ecosystems** (CRM → Books → Projects)
+- ⚙️ Engineer **business workflows that run themselves**
+- 🌐 Develop **modern full-stack applications** with scalable architecture
 
-Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate or discuss anything tech-related!
+---
+
+## 🔥 Featured Work
+
+### 🧠 AI Lead Qualification & Outreach System
+- Automated lead research, validation, and scoring
+- AI-generated outreach for high-fit leads
+- Integrated directly into Zoho CRM workflows  
+👉 Result: Reduced manual qualification work significantly
+
+---
+
+### ⚙️ AI Time Log → Task Automation (Zoho Projects)
+- Converts raw time logs into structured tasks
+- AI generates clean task names, estimates, and descriptions
+- Fully automated workflow into Zoho Projects  
+👉 Result: Eliminated manual task creation
+
+---
+
+### 🌐 Full-Stack Business Applications
+- Built scalable apps using Next.js, APIs, and databases
+- Designed clean UI + backend systems for real-world use
+- Focus on **performance, integration, and usability**
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js, Tailwind CSS
+
+**Backend**
+- Node.js, APIs, Automation Logic
+
+**AI & Automation**
+- LLM workflows, structured outputs, decision pipelines
+
+**Zoho Ecosystem**
+- Zoho CRM, Zoho Projects, Zoho Books
+
+**Database**
+- MongoDB, Firestore
+
+**Tools**
+- Git, Postman, Figma
+
+---
+
+## 🌱 Currently Leveling Up
+
+- Advanced AI agent workflows
+- System design for automation platforms
+- Scalable SaaS architecture
+
+---
+
+## 🚀 Portfolio
+
+👉 https://moropane-kutullo.onrender.com/
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: moropaneki@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kutullo-innocent-moropane-b65495319
+
+---
+
+## 💡 Note
+
+Some of my most advanced systems are private due to client work.  
+If you're interested, feel free to reach out — I’m happy to walk you through them.
+
+---
+
+⚡ *I don’t just build apps — I build systems that solve real business problems.*
