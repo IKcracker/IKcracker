@@ -1,7 +1,8 @@
 # Hi, I'm Kutullo 👋
 
 **Zoho Developer · Software Developer · Systems Integration**
-Pretoria, South Africa
+
+📍 Pretoria, South Africa
 
 I build business systems that remove manual work: Zoho solutions, API integrations and full-stack web products, taken from scope of work through to production.
 
